@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-/* Estilização do body */
+
 body {
     background-color: #1F509A; 
     color: #FFFFFF; 
@@ -52,7 +52,7 @@ body {
     background-color: tomato; 
 }
 
-/* Texto ao lado da imagem */
+
 
 .texto {
     max-width: 500px;
@@ -79,7 +79,7 @@ body {
     margin-bottom: 8px;
 }
 
-/* Links gerais */
+
 a {
     color: #FFD700;
     text-decoration: none;
@@ -87,4 +87,8 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+.preparo {
+    background-color: rgb(36, 40, 39);
 }
