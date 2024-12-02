@@ -1,3 +1,8 @@
+@font-face {
+    font-family: fonte-kk;
+    src: url(fontes/Playfair_Display.zip);
+ }
+
 * {
     margin: 0;
     padding: 0;
@@ -10,6 +15,7 @@ body {
     color: #FFFFFF; 
     font-family: Arial, sans-serif;
     line-height: 1.6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
@@ -59,6 +65,7 @@ body {
     font-size: 16px;
 }
 
+
 .texto h2 {
     font-size: 22px;
     color: #FFD700; 
@@ -92,6 +99,8 @@ a:hover {
 .preparo {
     background-color: rgb(36, 40, 39);
     margin: 40px;
+    color: springgreen;
+    
 }
 
 ul {
