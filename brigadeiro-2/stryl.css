@@ -91,4 +91,9 @@ a:hover {
 
 .preparo {
     background-color: rgb(36, 40, 39);
+    margin: 40px;
+}
+
+ul {
+    list-style: none
 }
